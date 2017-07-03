@@ -30,7 +30,7 @@ $ vagrant ssh
 ```
 $ psql -d news -f newsdata.sql
 ```
-- Connect to database in vm using command:
+- Connect to database in vm using command : `this step is just to examine databse`
 ```
 $ psql -d news
 ```
